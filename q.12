@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+    int n,i;
+    printf("ENTERN THE NUMBER : ");
+    scanf("%d",&n);
+for(i = 1 ; i<=n ; i++)
+{
+printf("HASYA SONI \n");
+}
+return 0;
+
+}
